@@ -9,4 +9,4 @@ magenta=$(echo -en '\033[0;35m')
 white=$(echo -en '\033[0;37m')
 clear=$(echo -en '\033[0m')
 
-echo "${cyan}C${red}o${green}l${yellow}o${blue}r ${magenta}s${white}o${cyan}u${green}r${yellow}c${blue}e${magenta}d${red}!"
+echo "${cyan}C${red}o${green}l${yellow}o${blue}r ${magenta}s${white}o${cyan}u${green}r${yellow}c${blue}e${magenta}d${red}!${clear}"
